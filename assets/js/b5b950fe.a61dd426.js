@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinvitation_doc=self.webpackChunkinvitation_doc||[]).push([[7964],{1058:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/invitation-doc/blog/tags/hola","allTagsPath":"/invitation-doc/blog/tags","count":1}')}}]);

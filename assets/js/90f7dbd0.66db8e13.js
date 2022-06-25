@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinvitation_doc=self.webpackChunkinvitation_doc||[]).push([[7540],{2372:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/invitation-doc/blog/tags/docusaurus","allTagsPath":"/invitation-doc/blog/tags","count":4}')}}]);
